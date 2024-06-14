@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/sriff/Git/Practice-1/Extra Long Factorials",
-      "program": "c:/Users/sriff/Git/Practice-1/Extra Long Factorials/build/Debug/outDebug",
+      "cwd": "c:/Users/sriff/Git/Practice-1/Non-divisible Subset",
+      "program": "c:/Users/sriff/Git/Practice-1/Non-divisible Subset/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
