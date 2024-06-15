@@ -60,6 +60,7 @@
     "vector": "cpp",
     "unordered_map": "cpp",
     "span": "cpp",
-    "ostream": "cpp"
+    "ostream": "cpp",
+    "cctype": "c"
   }
 }

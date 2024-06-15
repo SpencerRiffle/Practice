@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/sriff/Git/Practice-1/Non-divisible Subset",
-      "program": "c:/Users/sriff/Git/Practice-1/Non-divisible Subset/build/Debug/outDebug",
+      "cwd": "c:/Users/sriff/Git/Practice-1/Perfect Square Pattern",
+      "program": "c:/Users/sriff/Git/Practice-1/Perfect Square Pattern/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
